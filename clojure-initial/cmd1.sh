@@ -1,1 +1,1 @@
-echo 'ok aqui está'
+cp ~/lein.txt ~/lein2.txt

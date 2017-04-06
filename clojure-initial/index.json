@@ -19,9 +19,17 @@
   },
   "environment": {
     "uilayout": "ubuntu",
-    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
+    "uimessage1": "\u001b[32mYour Interactive Ubuntu Terminal.\r\nStart Kubernetes using `launch.sh`\u001b[m\r\n"
   },
   "backend": {
     "imageid": "bash"
+  }
+  "assets": {
+    "client": [
+      {
+        "file": "lein.txt",
+        "target": "~/"
+      }
+    ]
   }
 }
