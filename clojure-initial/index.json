@@ -23,7 +23,7 @@
   },
   "backend": {
     "imageid": "bash"
-  }
+  },
   "assets": {
     "client": [
       {
