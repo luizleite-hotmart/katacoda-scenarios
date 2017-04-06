@@ -24,12 +24,8 @@
   "backend": {
     "imageid": "bash"
   },
-  "assets": {
-    "host01": [
-      {
-        "file": "lein.txt",
-        "target": "~/"
-      }
+  "files": [
+      "lein.txt"
     ]
   }
 }
