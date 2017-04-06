@@ -1,1 +1,1 @@
-cp ~/lein.txt ~/lein2.txt
+mkdir blaTest
