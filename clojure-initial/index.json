@@ -10,7 +10,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": ""
+      "credits": "All to me",
+      "courseData": "cmd1.sh"
     },
     "finish": {
       "text": "finish.md"
