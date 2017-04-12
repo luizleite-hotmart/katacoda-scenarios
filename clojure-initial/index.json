@@ -27,13 +27,13 @@
   "assets": {
     "client": [
       {
-        "file": "docker-compose.yml",
+        "file": "lein.txt",
         "target": "~/"
       }
     ],
     "host01": [
       {
-        "file": "config.yml",
+        "file": "lein.txt",
         "target": "~/"
       }
     ]
