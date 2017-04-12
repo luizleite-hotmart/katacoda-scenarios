@@ -28,13 +28,13 @@
     "client": [
       {
         "file": "lein.txt",
-        "target": "~/"
+        "target": "/root/"
       }
     ],
     "host01": [
       {
         "file": "lein.txt",
-        "target": "~/"
+        "target": "/root/"
       }
     ]
   }
