@@ -1,5 +1,5 @@
 {
-  "title": "Initial Clojure Example",
+  "title": "Initial Clojure Example tutorial",
   "description": "Your First Clojure Scenario",
   "difficulty": "beginner",
   "time": "2 minutes",
@@ -28,13 +28,13 @@
     "client": [
       {
         "file": "lein.txt",
-        "target": "/home/scrapbook/tutorial"
+        "target": "/home/scrapbook/tutorial/"
       }
     ],
     "host01": [
       {
         "file": "lein.txt",
-        "target": "/home/scrapbook/tutorial"
+        "target": "/home/scrapbook/tutorial/"
       }
     ]
   }
