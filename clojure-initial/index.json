@@ -28,13 +28,13 @@
     "client": [
       {
         "file": "lein.txt",
-        "target": "/root/"
+        "target": "/home/scrapbook/tutorial"
       }
     ],
     "host01": [
       {
         "file": "lein.txt",
-        "target": "/root/"
+        "target": "/home/scrapbook/tutorial"
       }
     ]
   }
