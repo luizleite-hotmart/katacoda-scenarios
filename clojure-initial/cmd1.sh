@@ -1,5 +1,5 @@
-curl "https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein" > lein.txt
-mkdir -p /usr/local/bin/
-mv /home/scrapbook/tutorial/lein* /usr/local/bin/lein
-chmod a+x /usr/local/bin/lein
-export PATH=$PATH:/usr/local/bin
+git clone https://github.com/pandeiro/docker-lein && cd docker-lein
+docker build -t 'lein' .
+docker pull pandeiro/lein
+alias clj-repl='docker run -i -t pandeiro/lein repl'
+clj-repl
