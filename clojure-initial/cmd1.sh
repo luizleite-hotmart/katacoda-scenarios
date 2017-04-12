@@ -1,4 +1,4 @@
-sudo mkdir -p /usr/local/bin/
-sudo mv ~/lein* /usr/local/bin/lein
-sudo chmod a+x /usr/local/bin/lein
+mkdir -p /usr/local/bin/
+mv ~/lein* /usr/local/bin/lein
+chmod a+x /usr/local/bin/lein
 export PATH=$PATH:/usr/local/bin
