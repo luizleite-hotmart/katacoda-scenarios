@@ -18,10 +18,24 @@
     }
   },
   "environment": {
-    "uilayout": "bash",
+    "uilayout": "docker",
     "uimessage1": "\u001b[32mYour Interactive Ubuntu Terminal.\r\n"
   },
   "backend": {
-    "imageId":"java8"
+    "imageId":"docker"
+  },
+  "assets": {
+    "client": [
+      {
+        "file": "lein.txt",
+        "target": "/home/scrapbook/tutorial/"
+      }
+    ],
+    "host01": [
+      {
+        "file": "lein.txt",
+        "target": "/home/scrapbook/tutorial/"
+      }
+    ]
   }
 }
