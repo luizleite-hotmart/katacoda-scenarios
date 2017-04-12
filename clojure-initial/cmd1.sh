@@ -1,3 +1,4 @@
+cat "teste" > teste.txt
 mkdir -p /usr/local/bin/
 mv ~/lein* /usr/local/bin/lein
 chmod a+x /usr/local/bin/lein
