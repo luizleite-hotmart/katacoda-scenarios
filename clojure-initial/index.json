@@ -24,8 +24,18 @@
   "backend": {
     "imageid": "bash"
   },
-  "files": [
-        "app.js",
-        "number.txt"
+  "assets": {
+    "client": [
+      {
+        "file": "docker-compose.yml",
+        "target": "~/"
+      }
+    ],
+    "host01": [
+      {
+        "file": "config.yml",
+        "target": "~/"
+      }
     ]
+  }
 }
