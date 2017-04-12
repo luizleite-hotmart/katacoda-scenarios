@@ -25,6 +25,7 @@
     "imageid": "bash"
   },
   "files": [
-        "app.js"
+        "app.js",
+        "number.txt"
     ]
 }
