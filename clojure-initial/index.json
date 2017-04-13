@@ -23,19 +23,5 @@
   },
   "backend": {
     "imageid": "docker"
-  },
-  "assets": {
-    "client": [
-      {
-        "file": "lein.txt",
-        "target": "/home/scrapbook/tutorial/"
-      }
-    ],
-    "host01": [
-      {
-        "file": "lein.txt",
-        "target": "/home/scrapbook/tutorial/"
-      }
-    ]
   }
 }
