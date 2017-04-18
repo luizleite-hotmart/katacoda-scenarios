@@ -4,10 +4,6 @@ To check if you have Java you can run `java -version`{{execute}} on a Terminal.
 
 More information you can see on http://www.lispcast.com/clojure-ubuntu
 
-`git clone https://github.com/pandeiro/docker-lein && cd docker-lein`{{execute}}
-
-`docker build -t 'lein' .`{{execute}}
-
 `docker pull pandeiro/lein`{{execute}}
 
 `alias lein='docker run -i -t pandeiro/lein repl'`{{execute}}
