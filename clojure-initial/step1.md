@@ -1,7 +1,5 @@
-This is your first step.
+In this step we will start a new docker with lein to run ok you need JAVA installed.
 
-## Task
-
-This is an _example_ of creating a scenario and running a **command**
+To check if you have Java you can run java -version {{execute}} on a Terminal.
 
 
