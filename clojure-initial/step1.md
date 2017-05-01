@@ -1,7 +1,11 @@
-This is your first step.
+In this step we will start a new docker with lein to run ok you need JAVA installed.
 
-## Task
+To check if you have Java you can run `java -version`{{execute}} on a Terminal.
 
-This is an _example_ of creating a scenario and running a **command**
+More information you can see on http://www.lispcast.com/clojure-ubuntu
 
+`docker pull pandeiro/lein`{{execute}}
 
+`alias lein='docker run -i -t pandeiro/lein repl'`{{execute}}
+
+`lein`{{execute}}
