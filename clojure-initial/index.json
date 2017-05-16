@@ -7,7 +7,7 @@
     "steps": [{
       "title": "Step 1 - Run Command",
       "text": "step1.md",
-      "courseData": "cmd1.sh"
+      "code": "cmd1.sh"
     }],
     "intro": {
       "text": "intro.md",
