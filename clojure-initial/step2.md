@@ -1,7 +1,5 @@
 In this step we will say hello to the world to avoid this curse.
+There is 3 ways to make this activity in lein using "prn" , "println" or "pr-str"
 
-To check if you have Java you can run `java -version`{{execute}} on a Terminal.
-
-To run Clojure we need Leiningen check if you have intalled with `lein -version`{{execute}} on a Terminal.
-
-To run Clojure you can just type `lein repl`{{execute}} on a Terminal.
+You can try know any of this comands
+`(prn "Hello World!")`{{execute}} on a Terminal.
