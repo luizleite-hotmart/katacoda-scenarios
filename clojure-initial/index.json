@@ -6,12 +6,12 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
-      "text": "step1.md"
+      "text": "step1.md",
+      "courseData": "cmd1.sh"
     }],
     "intro": {
       "text": "intro.md",
-      "credits": "If you get interested with my work please give a feedback on github https://github.com/luizleiteoliveira  ",
-      "courseData": "cmd1.sh"
+      "credits": "If you get interested with my work please give a feedback on github https://github.com/luizleiteoliveira  "
     },
     "finish": {
       "text": "finish.md"
