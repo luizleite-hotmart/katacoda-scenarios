@@ -6,8 +6,7 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
-      "text": "step1.md",
-      "courseData": "cmd1.sh"
+      "text": "step1.md"
     },
   {
       "title": "Step 2 - Say Hello to the world!!",
@@ -15,7 +14,8 @@
     }],
     "intro": {
       "text": "intro.md",
-      "credits": "If you get interested with my work please give a feedback on github https://github.com/luizleiteoliveira \n and you can add me on https://www.linkedin.com/in/luizleiteoliveira/"
+      "credits": "If you get interested with my work please give a feedback on github https://github.com/luizleiteoliveira \n and you can add me on https://www.linkedin.com/in/luizleiteoliveira/",
+      "courseData": "cmd1.sh"
     },
     "finish": {
       "text": "finish.md"
