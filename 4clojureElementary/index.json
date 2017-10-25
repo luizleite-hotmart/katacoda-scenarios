@@ -1,0 +1,31 @@
+{
+  "title": "4Clojure Elementary Problems",
+  "description": "In this we will try to help you the Elementary problems from 4Clojure",
+  "difficulty": "beginner",
+  "time": "??",
+  "details": {
+    "steps": [{
+      "title": "Step 1 - Run Command",
+      "text": "step1.md",
+      "code": "cmd1.sh"
+    },
+  {
+      "title": "Step 2 - Say Hello to the world!!",
+      "text": "step2.md"
+    }],
+    "intro": {
+      "text": "intro.md",
+      "credits": "If you get interested with my work please give a feedback on github https://github.com/luizleiteoliveira \n and you can add me on https://www.linkedin.com/in/luizleiteoliveira/"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Terminal.\r\n"
+  },
+  "backend": {
+    "imageid": "clojure"
+  }
+}
