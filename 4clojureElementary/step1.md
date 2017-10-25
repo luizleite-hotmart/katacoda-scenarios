@@ -1,7 +1,3 @@
-In this step we will check if we already have everithing we need installed and run Lein
-
-To check if you have Java you can run `java -version`{{execute}} on a Terminal.
-
-To run Clojure we need Leiningen check if you have intalled with `lein -version`{{execute}} on a Terminal.
+If you already done the first step I made you already have all ready for run the command bellow on your terminal and start lein.
 
 To run Clojure you can just type `lein repl`{{execute}} on a Terminal.
