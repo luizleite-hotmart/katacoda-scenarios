@@ -1,12 +1,4 @@
-Welcome to your first Clojure something!
+##Welcome to 4Clojure elementary problems
 
-In this place we will try to teach you to install clojure and say Hello World.
-
-Why Clojure?
-
-- Clojure is designed for concurrency
-- Smart people want clojure.
-- Is very dynamic.
-
-And the complete answer you can read on this link
-https://www.quora.com/Why-would-someone-learn-Clojure
+If you don't know what is 4Clojure you can check [here](https://www.4clojure.com/ "4Clojure Website").
+On the elementary level we will check some basic and the begin sintax from Clojure. 
