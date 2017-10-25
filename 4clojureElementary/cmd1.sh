@@ -1,1 +1,1 @@
-cd ~/
+lein repl
