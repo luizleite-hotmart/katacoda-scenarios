@@ -4,8 +4,8 @@ that we learn on the other step the exercise is:
 
 > (= (- 10 (* 2 3)) __)
 
-Let's do this in parts first we solve (* 2 3) this is 
-equal to 2*3 that is 6 
+Let's do this in parts first we solve `(* 2 3)`{{execute}} this is 
+equal to 2 * 3 that is 6 
 
 so after that we got:
 > (= (- 10 (6)) __)
