@@ -6,15 +6,15 @@ The first problem show you the boolean on clojure are in this [link](https://www
 
 there are a few answers for (= __ true) some of them are
 
-> (= true true)
+(= true true) {{execute}}
  
  or
  
-> (= (not false) true)
+(= (not false) true) {{execute}}
 
 or 
 
-> (= (= 3 3) true)
+(= (= 3 3) true) {{execute}}
 
 
 any of these answers should give you the correct answer
