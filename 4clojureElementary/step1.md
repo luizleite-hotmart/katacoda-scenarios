@@ -22,4 +22,5 @@ any of these answers should give you the correct answer
 ###HOW CLOJURE PROCESS THIS 
 first clojure will solve the operand '=' after this he will look for 
 the next to parameters (true) | (not false) | (= 3 3) and will
-check if this is equals to the second (true)
+check if this is equals to the second (true) this is called [Polish notation](https://en.wikipedia.org/wiki/Polish_notation)
+in this link you will find more details about that
