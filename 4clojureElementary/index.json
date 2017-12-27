@@ -6,8 +6,7 @@
   "details": {
     "steps": [{
       "title": "Step 1 - Run Command",
-      "text": "step1.md",
-      "code": "cmd1.sh"
+      "text": "step1.md"
     },
   {
       "title": "Step 2 - Say Hello to the world!!",
